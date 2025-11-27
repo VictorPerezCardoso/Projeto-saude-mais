@@ -22,8 +22,8 @@ Segundo o que foi detectado no repositório:
 
 - JavaScript / TypeScript  
 - CSS  
-- (Se houver frameworks como React/Next.js — insira aqui)  
-- Possivelmente lógica de backend / scripts de triagem (dependendo da estrutura)  
+- React / Next.js  
+- Possivelmente lógica de backend / scripts de triagem  
 
 ## 📂 Estrutura do Projeto
 
@@ -69,6 +69,7 @@ bash
 Copiar código
 npm run build
 npm run start
+
 🤝 Contribuição
 Contribuições são bem-vindas! Se quiser colaborar:
 
