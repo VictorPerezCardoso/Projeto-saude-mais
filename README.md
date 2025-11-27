@@ -83,8 +83,6 @@ Dependendo da versão exportada, alguns ajustes manuais podem ser necessários (
 📄 Licença
 Você pode definir a licença conforme preferir (ex: MIT, Apache, GPL, etc.). Se for um projeto pessoal, descreva as condições de uso aqui.
 
-yaml
-Copiar código
 
 ---
 
