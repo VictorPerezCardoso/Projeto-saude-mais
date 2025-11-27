@@ -1,6 +1,14 @@
-# Saúde Mais 🚑
+## **Título do projeto:** Saúde Mais — Sistema Inteligente de Triagem Clínica (PROJETO TECH)  
+## **Turma/Disciplina:** GTI - Gestão de Tecnologia da Informação — 2025.2  
+## **Grupo (integrantes + usuário GitHub):**
 
-**Projeto-saude-mais** é um sistema inteligente de triagem destinado a agilizar o atendimento de saúde, com o objetivo de evitar filas e otimizar o processo de atendimento com auxílio de IA.
+Integrante 1 — **VINICIUS LEITE DA SILVA** / *Vinisilva1304*  
+Integrante 2 — **VICTOR PEREZ CARDOSO** / *VictorPerezCardoso*  
+Integrante 3 — **KLEBER ALVES SANTANA** / *kklebs*  
+Integrante 4 — **VINICIUS GARRETO CAVALCANTI** / *garretovini32*  
+Integrante 5 — **RODRIGO SANTOS BITTENCOURT** / *RodrigoBittencourt011* 
+
+## **Projeto-saude-mais** é um sistema inteligente de triagem destinado a agilizar o atendimento de saúde, com o objetivo de evitar filas e otimizar o processo de atendimento com auxílio de IA.
 
 ## 🎯 Objetivo
 
