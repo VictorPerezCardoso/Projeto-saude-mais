@@ -92,5 +92,4 @@ Você pode definir a licença conforme preferir (ex: MIT, Apache, GPL, etc.). Se
 
 ---
 
-Se quiser — posso **gerar automaticamente** um README mais completo, incluindo **seções de exemplos de uso, screenshots, badges, checklist de deploy, e guia de contribuição** — assim o repositório já sai bem profissional. Quer que faça esse README “completo” pra você agora?
 ::contentReference[oaicite:1]{index=1}
