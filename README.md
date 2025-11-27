@@ -33,22 +33,22 @@ O repositório está organizado em múltiplas pastas e arquivos — como tipicam
    git clone https://github.com/VictorPerezCardoso/Projeto-saude-mais.git
 Acesse a pasta:
 
-bash
+ ```bash
 Copiar código
 cd Projeto-saude-mais
 Instale as dependências (se for um projeto com package.json):
 
-bash
+ ```bash
 Copiar código
 npm install
 Execute o servidor / ambiente de desenvolvimento:
 
-bash
+ ```bash
 Copiar código
 npm run dev
 ou
 
-bash
+ ```bash
 Copiar código
 npm start
 Abra no navegador: http://localhost:3000 (ou a porta que estiver configurada)
