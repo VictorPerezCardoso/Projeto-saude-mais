@@ -25,12 +25,9 @@ Segundo o que foi detectado no repositório:
 - (Se houver frameworks como React/Next.js — insira aqui)  
 - Possivelmente lógica de backend / scripts de triagem (dependendo da estrutura)  
 
-> ⚠️ Se houver mais tecnologias (ex: banco de dados, API, bibliotecas de IA), adicione nessa seção.
-
 ## 📂 Estrutura do Projeto
 
 O repositório está organizado em múltiplas pastas e arquivos — como tipicamente um sistema web.  
-(Se quiser — você pode complementar esta seção com uma breve explicação das principais pastas: “frontend”, “backend”, “assets”, etc.)
 
 ## 🚀 Como rodar localmente (desenvolvimento)
 
